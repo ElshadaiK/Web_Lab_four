@@ -1,5 +1,4 @@
-
-Calculator
+// Calculator
 
 let add = function(param){
     let sum = 0;
